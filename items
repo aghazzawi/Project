@@ -1,0 +1,10 @@
+{"items":[{"name":"laptop","category":"it","price":"300$","quality":"3"},
+               {"name":"mixer","category":"electrical machine","price":"200$","quality":"5"},
+               {"name":"tv","category":"electrical machine","price":"100$","quality":"2"},
+               {"name":"iPhone s5","category":"mobile","price":"150$","quality":"5"},
+               {"name":"iPad","category":"mobile","price":"200$","quality":"4"},
+               {"name":"table","category":"furneture","price":"100$","quality":"4"},
+               {"name":"database book","category":"books","price":"100$","quality":"5"},
+               {"name":"monitors","category":"electrical machine","price":"300$","quality":"5"},
+               {"name":"modem","category":"network","price":"100$","quality":"5"},
+               {"name":"fiber optics","category":"cables","price":"500$","quality":"5"}]}
